@@ -92,14 +92,10 @@ alish = {
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Al1sh-creator/Al1sh-creator/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Al1sh-creator/Al1sh-creator/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Al1sh-creator/Al1sh-creator/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al1sh-creator&bg_color=0d0f12&color=d4af37&line=d4af37&point=ffffff&area=true&area_color=d4af3733&hide_border=true&radius=8" alt="Contribution Graph" />
 </div>
 
 ---
