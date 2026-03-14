@@ -100,6 +100,21 @@ alish = {
 
 ---
 
+## 💬 Ask Me Anything
+
+<div align="center">
+
+Got a question? About tech, music, my projects, life — anything!
+I try to answer every single one. 👇
+
+[![Ask Me Anything](https://img.shields.io/badge/Ask%20Me-Anything-d4af37?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?template=ama.md&title=%5BAMA%5D+)
+
+[![Questions](https://img.shields.io/github/issues/Al1sh-creator/Al1sh-creator/question?label=Questions%20answered&color=d4af37&style=flat-square)](https://github.com/Al1sh-creator/Al1sh-creator/issues?q=label%3Aquestion+is%3Aclosed)
+
+</div>
+
+---
+
 <div align="center">
 
 *"Build things that make people say — wait, that's possible in a browser?!"*

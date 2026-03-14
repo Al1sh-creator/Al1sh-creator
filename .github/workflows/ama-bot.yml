@@ -1,0 +1,37 @@
+﻿name: AMA Auto-Response Bot
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  respond:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'ama') || contains(github.event.issue.title, 'AMA')
+    steps:
+      - name: Welcome comment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            Hey @${{ github.event.issue.user.login }}! 👋 Thanks for your question!
+
+            I'm Alish — I'll answer this as soon as I can (usually within 24–48 hrs). 
+
+            > _"Build things that make people say — wait, that's possible in a browser?!"_
+
+            While you wait, check out what I'm building → [harmonium 🎹](https://github.com/Al1sh-creator/harmonium)
+
+      - name: Add label
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['question', 'ama']
+            })
