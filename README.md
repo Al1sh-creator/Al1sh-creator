@@ -125,6 +125,26 @@ I try to answer every single one. 👇
 
 ---
 
+<!-- chess-start -->
+## ♟️ Play Chess Against Me!
+
+> Click any move below — it opens a GitHub Issue. The bot processes it and updates the board automatically!
+
+**⬜ White's turn**
+
+![Chess Board](chess-board.svg)
+
+**Make your move:**
+
+[`a2a3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+a2a3&labels=chess&body=Playing+move+a2a3) [`a2a4`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+a2a4&labels=chess&body=Playing+move+a2a4) [`b2b3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+b2b3&labels=chess&body=Playing+move+b2b3) [`b2b4`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+b2b4&labels=chess&body=Playing+move+b2b4) [`c2c3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+c2c3&labels=chess&body=Playing+move+c2c3) [`c2c4`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+c2c4&labels=chess&body=Playing+move+c2c4) [`d2d3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+d2d3&labels=chess&body=Playing+move+d2d3) [`d2d4`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+d2d4&labels=chess&body=Playing+move+d2d4)
+[`e2e3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+e2e3&labels=chess&body=Playing+move+e2e3) [`e2e4`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+e2e4&labels=chess&body=Playing+move+e2e4) [`f2f3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+f2f3&labels=chess&body=Playing+move+f2f3) [`f2f4`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+f2f4&labels=chess&body=Playing+move+f2f4) [`g2g3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+g2g3&labels=chess&body=Playing+move+g2g3) [`g2g4`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+g2g4&labels=chess&body=Playing+move+g2g4) [`h2h3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+h2h3&labels=chess&body=Playing+move+h2h3) [`h2h4`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+h2h4&labels=chess&body=Playing+move+h2h4)
+[`b1a3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+b1a3&labels=chess&body=Playing+move+b1a3) [`b1c3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+b1c3&labels=chess&body=Playing+move+b1c3) [`g1f3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+g1f3&labels=chess&body=Playing+move+g1f3) [`g1h3`](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+g1h3&labels=chess&body=Playing+move+g1h3)
+
+[🔄 Reset game](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?title=chess%3A+restart&labels=chess&body=New+game)
+<!-- chess-end -->
+
+---
+
 <div align="center">
 
 *"Build things that make people say — wait, that's possible in a browser?!"*

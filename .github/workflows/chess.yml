@@ -1,0 +1,57 @@
+﻿name: Chess Bot
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  chess:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'chess:')
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install python-chess
+        run: pip install chess
+
+      - name: Extract move
+        id: move
+        run: |
+          MOVE=$(echo "${{ github.event.issue.title }}" | sed 's/^chess: //' | xargs)
+          echo "move=$MOVE" >> $GITHUB_OUTPUT
+
+      - name: Process move
+        run: python .github/chess/process_move.py "${{ steps.move.outputs.move }}"
+
+      - name: Commit board update
+        run: |
+          git config user.name "Chess Bot"
+          git config user.email "chess-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chess: ${{ steps.move.outputs.move }}"
+          git push
+
+      - name: Comment on issue
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            ♟️ Move **`${{ steps.move.outputs.move }}`** has been played!
+
+            The board has been updated → [View profile](https://github.com/Al1sh-creator)
+
+            _— Chess Bot 🤖_
+
+      - name: Close issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
