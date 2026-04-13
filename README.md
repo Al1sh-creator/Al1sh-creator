@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Premium Cosmic Banner -->
-<img src="./cosmic_banner.png" width="100%" height="200" style="object-fit: cover;" alt="Alish: Cosmic Architect" />
-
-<br/>
-
 <!-- Modern Identity Block -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Master+Architect+Alish+%E2%9C%A8;Building+Computational+Worlds+%F0%9F%8C%8C;Math+%C3%97+AI+%C3%97+Sound+Engineering;Always+Learning%2C+Always+Scaling+%E2%9A%A1" alt="Typing SVG" />
 
