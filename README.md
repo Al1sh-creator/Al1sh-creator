@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Premium Hero Banner -->
-<img src="./banner.png" width="100%" alt="Alish Profile Banner" />
-
 <br/>
 
 <!-- System Log / Animated Typing -->
