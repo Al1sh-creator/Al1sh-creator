@@ -47,14 +47,14 @@ I am a builder of playful, complex systems, driven by first-principles logic and
 
 My work explores the intersection of abstract logic and physical digital realities.
 
-### 🎹 **The Harmonic Bellows (Harmonium)**
-*The intersection of physical sound and browser architecture.*
+### 💳 **AutoExpense: The Silent Ledger**
+*Autonomous payment tracking for Android.*
 <details>
 <summary><b>🔍 View Technical Blueprint</b></summary>
 <br/>
 
-**The Challenge**: Managing real-time DSP latency in a browser environment.
-**The Logic**: Implemented a custom circular buffer for the bellows physics, using the `Web Audio API` to simulate real-time air-pressure acoustics and multi-oscillator drone synthesis.
+**The Challenge**: Capturing heterogeneous UPI transactions from fragmented notifications and SMS without cloud interference.
+**The Logic**: Engineered a local `NotificationListenerService` and `BroadcastReceiver` pipeline. Used the `Room Persistence Library` for 100% private local storage and integrated `ML Kit OCR` via `CameraX` for offline receipt scanning.
 </details>
 
 ### 🤖 **The Sentient Arena (DebateX)**
