@@ -51,10 +51,6 @@ class Architect:
 
 <br/><br/>
 
-<!-- Interactive Snake Contribution Graph -->
-### 🐍 Contribution Journey
-![Snake Animation](https://raw.githubusercontent.com/Al1sh-creator/Al1sh-creator/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
