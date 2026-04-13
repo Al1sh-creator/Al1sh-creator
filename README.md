@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Cosmic Banner -->
-<img src="./cosmic_banner.png" width="100%" alt="Alish: Cosmic Architect" />
+<img src="./cosmic_banner.png" width="100%" height="200" style="object-fit: cover;" alt="Alish: Cosmic Architect" />
 
 <br/>
 
