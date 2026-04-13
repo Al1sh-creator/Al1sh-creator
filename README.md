@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alish+%F0%9F%91%8B;I+build+things+that+make+noise+%F0%9F%8E%B9;AI+%C3%97+Music+%C3%97+Web+Dev;Always+creating%2C+never+stopping+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alish+%F0%9F%91%8B;Creating+Digital+Experiences+%E2%9C%A8;AI+%C3%97+Music+%C3%97+Web+Dev;Always+building%2C+always+learning+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
 <!-- Tagline -->
 <p>
-  <em>Builder of AI-powered debate arenas, browser instruments & weird beautiful things on the web.</em>
+  <em>Architect of AI-powered systems, browser-based instruments, and elegant interactive interfaces.</em>
 </p>
 
 <br/>
@@ -21,23 +21,28 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Core Identity
 
 ```python
-alish = {
-    "pronouns":    "he/him",
-    "location":   "🇮🇳 India",
-    "currently_building": ["🎹 Harmonium — browser-based software instrument",
-                           "🤖 DebateX — AI debate arena with Gemini"],
-    "learning":   ["Web Audio API", "LLM Agents", "Real-time systems"],
-    "interests":  ["Music + Tech", "AI", "High-agency building"],
-    "fun_fact":   "I made a harmonium you can play in your browser 🎵",
-}
+class Developer:
+    def __init__(self):
+        self.name = "Alish"
+        self.origin = "🇮🇳 India"
+        self.vibe = "High-agency building & clean architecture"
+        self.domains = [
+            "Web Audio API & Browser DSP",
+            "Generative AI & LLM Orchestration",
+            "Real-time Interactive Systems"
+        ]
+        self.philosophy = "Build things that make people ask — 'How does this even run in a browser?'"
+
+    def get_status(self):
+        return "Exploring the intersection of logic and creativity 🎹🤖"
 ```
 
 ---
 
-## 📊 Dashboard
+## 📊 Developer Metrics
 
 <div align="center">
 
@@ -55,54 +60,39 @@ alish = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Al1sh-creator/harmonium">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Al1sh-creator&repo=harmonium&hide_border=true&bg_color=0d0f12&title_color=d4af37&text_color=f0f0f0&icon_color=d4af37" />
-</a>
-
-</div>
-
-<br/>
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎹 **Harmonium** | A fully playable software harmonium in the browser — bellows, drones, camera mode & audio recording | `JS` `Web Audio API` `HTML/CSS` |
-| 🤖 **DebateX** | AI-powered debate arena with persona-driven Gemini agents that argue, rebut & counter | `Python` `Gemini API` `WebSockets` `JS` |
-| 🏛️ **Athenify** | AI-powered project with a rich frontend | `Python` `JS` `HTML/CSS` |
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Expertise & Tooling
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Web Audio](https://img.shields.io/badge/Web_Audio_API-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🛸 Selected Works
+
+I focus on pushing the boundaries of what's possible on the open web. My work typically falls into these categories:
+
+- 🎹 **Sonic Engineering**: Crafting high-fidelity musical instruments and audio processors that live entirely in the browser.
+- 🤖 **Cognitive Interfaces**: Integrating advanced AI agents into real-time environments to create dynamic, persona-driven experiences.
+- ⚡ **Performance Systems**: Building responsive, low-latency applications that handle complex data and media streams seamlessly.
+
+> [!TIP]
+> Check my **Pinned Repositories** below for a look at my most established and actively maintained project codebases.
+
+---
+
+## 📈 Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al1sh-creator&bg_color=0d0f12&color=d4af37&line=d4af37&point=ffffff&area=true&area_color=d4af3733&hide_border=true&radius=8" alt="Contribution Graph" />
@@ -110,16 +100,14 @@ alish = {
 
 ---
 
-## 💬 Ask Me Anything
+## 💬 Connect
 
 <div align="center">
 
-Got a question? About tech, music, my projects, life — anything!
-I try to answer every single one. 👇
+Have a question about my work, open-source tech, or the future of AI and music? 
+I'm always open to discussing high-agency projects and unique collaborations.
 
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20Me-Anything-d4af37?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?template=ama.md&title=%5BAMA%5D+)
-
-[![Questions](https://img.shields.io/github/issues/Al1sh-creator/Al1sh-creator/question?label=Questions%20answered&color=d4af37&style=flat-square)](https://github.com/Al1sh-creator/Al1sh-creator/issues?q=label%3Aquestion+is%3Aclosed)
 
 </div>
 
@@ -127,8 +115,9 @@ I try to answer every single one. 👇
 
 <div align="center">
 
-*"Build things that make people say — wait, that's possible in a browser?!"*
+*"The code is the canvas; the browser is the stage."*
 
-⭐ **Star a repo if you find something interesting!** ⭐
+⭐ **If you find something helpful, feel free to leave a star!** ⭐
 
 </div>
+
