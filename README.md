@@ -19,14 +19,17 @@
 
 ---
 
-## 📐 The Master Architect's Vitals
+## 📐 The Master Architect's Command Center
 
-I am a builder of playful, complex systems, driven by a relentless curiosity about the physics of sound, the logic of AI, and the mechanics of the universe.
+I am a builder of playful, complex systems, driven by first-principles logic and celestial curiosity.
 
-- ⚽ **Kinetic Energy (Football)**: High-energy execution and collaborative orchestration.
-- 🏸 **Precision Flight (Badminton)**: Rapid, agile pivots in engineering and problem solving.
-- 📐 **Labyrinth Solver (Mathematics)**: Scaling complex systems through first-principles logic.
-- 📖 **Expanse Seeker (Literature)**: Continuous expansion of the knowledge horizon.
+<div align="center">
+
+| ⚽ Kinetic | 🏸 Precision | 📐 Logic | 📖 Vision |
+| :---: | :---: | :---: | :---: |
+| **Football** | **Badminton** | **Mathematics** | **Literature** |
+
+</div>
 
 ---
 
@@ -42,27 +45,35 @@ I am a builder of playful, complex systems, driven by a relentless curiosity abo
 
 ## 🛠️ Featured Blueprints
 
-I transform abstract ideas into high-fidelity digital realities. Here are the core "mutations" of my research:
+My work explores the intersection of abstract logic and physical digital realities.
 
 ### 🎹 **The Harmonic Bellows (Harmonium)**
 *The intersection of physical sound and browser architecture.*
-> [!IMPORTANT]
-> **Technical Deep Dive**: Implemented a custom circular buffer for the bellows physics, using the `Web Audio API` to simulate real-time air-pressure acoustics and multi-oscillator drone synthesis.
+<details>
+<summary><b>🔍 View Technical Blueprint</b></summary>
+<br/>
+
+**The Challenge**: Managing real-time DSP latency in a browser environment.
+**The Logic**: Implemented a custom circular buffer for the bellows physics, using the `Web Audio API` to simulate real-time air-pressure acoustics and multi-oscillator drone synthesis.
+</details>
 
 ### 🤖 **The Sentient Arena (DebateX)**
 *Adversarial AI agents fighting for logical dominance.*
-> [!IMPORTANT]
-> **Technical Deep Dive**: Built a persona-injection pipeline for `Google Gemini API`, orchestrating multi-agent WebSocket streams to handle real-time rebuttals and counter-arguments.
+<details>
+<summary><b>🔍 View Technical Blueprint</b></summary>
+<br/>
+
+**The Challenge**: Orchestrating multi-persona adversarial LLM agents.
+**The Logic**: Built a persona-injection pipeline for `Google Gemini API`, orchestrating multi-agent WebSocket streams to handle real-time rebuttals and counter-arguments.
+</details>
 
 ---
 
 ## 📚 The Scholarly Annex
 
-A dedicated sector for my current intellectual expansions:
-
-- **Currently Reading**: `The Emperor of All Maladies — Siddhartha Mukherjee` (or add your current choice here!)
-- **Mathematical Focus**: `Advanced Stochastic Processes & Brownian Motion Logic`
-- **Recent Conquest**: Mastered the logic for real-time `FFT (Fast Fourier Transform)` visualizations in vanilla JS.
+> [!TIP]
+> **Currently Reading**: *The Emperor of All Maladies* — Siddhartha Mukherjee
+> **Mathematical Focus**: *Advanced Stochastic Processes & Brownian Motion Logic*
 
 ---
 
@@ -75,8 +86,6 @@ A dedicated sector for my current intellectual expansions:
 ---
 
 ## 💬 Connect with the Architect
-
-Have a question about my work, open-source tech, or the future of computational sound?
 
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20Me-Anything-d4af37?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Al1sh-creator/Al1sh-creator/issues/new?template=ama.md&title=%5BAMA%5D+)
 
